@@ -1,0 +1,7 @@
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\obj\Debug\FileMvForCS.csprojAssemblyReference.cache
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\obj\Debug\FileMvForCS.csproj.CoreCompileInputs.cache
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\bin\Debug\FileMvForCS.exe.config
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\bin\Debug\FileMvForCS.exe
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\bin\Debug\FileMvForCS.pdb
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\obj\Debug\FileMvForCS.exe
+C:\Users\h_ul\source\repos\FileMvForCS\FileMvForCS\obj\Debug\FileMvForCS.pdb
